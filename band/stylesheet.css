@@ -1,0 +1,10 @@
+body {
+    background: rgb(233, 233, 233);
+    color: black;
+    font-size: 16px;
+}
+#logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
